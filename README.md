@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sample C++ Project
 
 Небольшой учебный проект на C++17, который складывает два целых числа.
@@ -55,6 +54,3 @@ Doxygen генерирует документацию, а GitHub Actions пуб�
 Ссылка:
 
 https://github.com/Vega-SoftwareEngineering-Project/Vega-SoftwareEngineering-Project
-=======
-# Vega-SoftwareEngineering-Project
->>>>>>> 540da3c0b4d6c39a418c84e66cd9d783402e1968
