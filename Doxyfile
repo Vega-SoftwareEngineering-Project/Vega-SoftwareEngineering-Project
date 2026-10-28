@@ -1,0 +1,20 @@
+PROJECT_NAME           = "Sample C++ Project"
+PROJECT_BRIEF          = "A small C++17 project with tests and benchmark"
+
+OUTPUT_DIRECTORY       = docs
+CREATE_SUBDIRS         = NO
+
+OPTIMIZE_OUTPUT_FOR_C  = NO
+EXTRACT_ALL            = YES
+
+INPUT                  = main.cpp include lib benchmark
+FILE_PATTERNS          = *.cpp *.hpp
+RECURSIVE              = YES
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+
+QUIET                  = YES
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = NO
