@@ -53,4 +53,4 @@ Doxygen генерирует документацию, а GitHub Actions пуб�
 
 Ссылка:
 
-https://github.com/Vega-SoftwareEngineering-Project/Vega-SoftwareEngineering-Project
+https://vega-softwareengineering-project.github.io/Vega-SoftwareEngineering-Project/
